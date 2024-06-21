@@ -1,7 +1,3 @@
-Certainly! Here's how you could structure the project description in a README file format:
-
----
-
 # Business Model Canvas Development for Effortless
 
 ## Project Description
